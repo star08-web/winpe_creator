@@ -76,7 +76,7 @@ Aggiunta di pacchetti di app in bundle tramite Gestione e manutenzione immagini 
 -----------------------------------------------------------------------------------------------------------------------
 licenza d'uso. 
 
-questo software è gratuito e open source e seguè i termini della licenza MIT.
+questo software è gratuito e open source e segue i termini della licenza MIT.
 
 alcuni software aggregati ad esempio gimageX sono freeware e non modificabili. 
 per ulteriori informazioni sui software vedere 
