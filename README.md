@@ -21,19 +21,19 @@ copia il file boot.wim dentro la cartella sources
 salva il file
 avrai ottenuto ora un nuovo file ISO. ora bisogna masterizzarlo con rufus (scaricabile da rufus.ie) o utilizzarlo con vmware,virtualbox o un altro software di macchine virtuali.
 -------------------------------------------------------------------------------------------------------------------------
-è sicuro ? 
+è sicuro :
 yep :) 
 ----------------------------------
-è utilizzabile su mac os ?
+è utilizzabile su mac os :
 no. perchè i componenti dism e gimagex non sono disponibili
 -------------------------------------------------------------
 c'è una guida "user friendly" ?
 farò un video a riguardo 
 -------------------------------------------------
 a cosa serve windows preinstallation environiment?
+-----------------------------------------------------------------------------------------------------------------------
 (preso dal sito microsoft) 
 Windows PE (WinPE) è un piccolo sistema operativo usato per installare, distribuire e ripristinare Windows desktop edition, Windows Server e altri sistemi operativi Windows desktop. Da Windows PE è possibile:
-
 Configurare il disco rigido prima di installare Windows.
 Installare Windows usando app o script da una rete o da un'unità locale.
 Acquisire e applicare Windows immagini.
