@@ -1,1 +1,1 @@
-gimageX è uno dei programmi principali di questo script serve per cambiare il file boot.wim di windows
+gimageX è uno dei programmi principali di questo script. serve per cambiare il file boot.wim di windows
