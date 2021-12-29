@@ -53,3 +53,7 @@ sto tuttora lavorando per rendere lo script indipendente da GimageX ma non ci so
 il sito ufficial di gimageX è questo:https://www.autoitconsulting.com/site/software/gimagex/
 nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno youtuber a cui piace programmare 
 -----------------------------------------------------------------------------------------------------------------------
+farai un sito per questo ?????
+-----------------------------------------------------------------------------------------------------------------------
+boh dipende da quanta strada farà il progetto :)
+-----------------------------------------------------------------------------------------------------------------------
