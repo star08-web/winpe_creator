@@ -22,11 +22,6 @@ seleziona la scheda change
 seleziona il tuo file boot.wim e settalo sul index 1. importante !!! abilita il flag boot !!!
 una volta configurato esegui il file bake.cmd come amministratore
 una volta finito il file sarà utilizzabile
-non abbiamo ancora finito. installa ultraISO da qui https://www.ultraiso.com/
-apri la versione di prova e carica una copia del file ISO originale di windows 10
-cancella i file setup.exe e i file sources\boot.wim e sources\install(.wim/.esd) 
-copia il file boot.wim dentro la cartella sources 
-salva il file
 avrai ottenuto ora un nuovo file ISO. ora bisogna masterizzarlo con rufus (scaricabile da rufus.ie) o utilizzarlo con vmware,virtualbox o un altro software di macchine virtuali.
 -------------------------------------------------------------------------------------------------------------------------
 è sicuro :
