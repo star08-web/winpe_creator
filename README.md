@@ -22,7 +22,7 @@ seleziona la scheda change
 seleziona il tuo file boot.wim e settalo sul index 1. importante !!! abilita il flag boot !!!
 una volta configurato esegui il file bake.cmd come amministratore
 una volta finito il file sarà utilizzabile
-avrai ottenuto ora un nuovo file ISO. ora bisogna masterizzarlo con rufus (scaricabile da rufus.ie) o utilizzarlo con vmware,virtualbox o un altro software di macchine virtuali.
+avrai ottenuto ora un nuovo file ISO. che andra masterizzato con rufus (scaricabile da rufus.ie) o usato con vmware,virtualbox o un altro software di macchine virtuali.
 -------------------------------------------------------------------------------------------------------------------------
 è sicuro :
 yep :) 
