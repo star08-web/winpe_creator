@@ -82,8 +82,13 @@ alcuni software aggregati ad esempio gimageX sono freeware e non modificabili.
 per ulteriori informazioni sui software vedere 
 
 GimageX site:https://www.autoitconsulting.com/site/software/gimagex/
+
+
 waik docs:https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
 un grande Grazie per usare questo software
+
+
+
 
 
 fatto con ❤️ da star development labs 
