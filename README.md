@@ -86,4 +86,7 @@ waik docs:https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-inst
 un grande Grazie per usare questo software
 
 
-fatto con ❤️ da star development labs aka. star web
+fatto con ❤️ da star development labs 
+
+
+copyright 2021 star web & star development labs
