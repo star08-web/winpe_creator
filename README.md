@@ -27,7 +27,7 @@ yep :)
 è utilizzabile su mac os :
 no. perchè i componenti dism e gimagex non sono disponibili
 -------------------------------------------------------------
-c'è una guida "user friendly" ?
+c'è una guida "user friendly" :
 farò un video a riguardo 
 -------------------------------------------------
 a cosa serve windows preinstallation environiment?
