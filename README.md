@@ -51,3 +51,23 @@ nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno you
 farai un sito per questo ?????
 boh dipende da quanta strada farà il progetto :)
 -----------------------------------------------------------------------------------------------------------------------
+Limitazioni di windows preinstallation environiment. (preso da Microsoft)
+Windows PE non è un sistema operativo per utilizzo generico. Non può essere usato per scopi diversi dalla distribuzione e dal ripristino. Non deve essere usato come thin client o un sistema operativo incorporato. Esistono altri prodotti Microsoft, ad esempio Windows Embedded CE, che possono essere usati per questi scopi.
+
+Per impedirne l'uso come sistema operativo di produzione, Windows PE arresta automaticamente l'esecuzione della shell e si riavvia dopo 72 ore di utilizzo continuo. Questo periodo non è configurabile.
+
+Quando Windows pe viene riavviato, tutte le modifiche andranno perse, incluse le modifiche ai driver, alle lettere di unità e al registro WINDOWS PE. Per apportare modifiche permanenti, vedere WinPE: Montare e personalizzare.
+
+L'Windows pe predefinita usa il formato di file FAT32, che pone le proprie limitazioni, tra cui dimensioni massime di 4 GB di file e dimensioni massime dell'unità di 32 GB. Per altre informazioni, vedere WinPE: Usare una singola chiave USB per WinPE e un file WIM (con estensione wim).
+
+Windows PE non supporta gli elementi seguenti:
+
+Utilizzo del file server o di Terminal Server.
+Aggiunta a un dominio di rete.
+Connessione a una rete IPv4 da Windows PE in una rete IPv6.
+Desktop remoto.
+.MSI file di installazione.
+Avvio da un percorso che contiene caratteri non inglesi.
+Esecuzione di app a 64 bit nella versione a 32 bit di Windows PE.
+Aggiunta di pacchetti di app in bundle tramite Gestione e manutenzione immagini distribuzione (pacchetti con estensione appxbundle).
+-----------------------------------------------------------------------------------------------------------------------
