@@ -78,7 +78,7 @@ licenza d'uso.
 
 questo software è gratuito e open source e segue i termini della licenza MIT.
 
-alcuni software aggregati ad esempio gimageX sono freeware e non modificabili. 
+alcuni software usati nel progetto ad esempio gimageX e windows preinstallation environiment stesso sono freeware o commercial e non modificabili. 
 per ulteriori informazioni sui software vedere 
 
 GimageX site:https://www.autoitconsulting.com/site/software/gimagex/
