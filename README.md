@@ -21,20 +21,16 @@ copia il file boot.wim dentro la cartella sources
 salva il file
 avrai ottenuto ora un nuovo file ISO. ora bisogna masterizzarlo con rufus (scaricabile da rufus.ie) o utilizzarlo con vmware,virtualbox o un altro software di macchine virtuali.
 -------------------------------------------------------------------------------------------------------------------------
-è sicuro ?
-----------------------------------
+è sicuro ? 
 yep :) 
 ----------------------------------
 è utilizzabile su mac os ?
---------------------------------------------------------
 no. perchè i componenti dism e gimagex non sono disponibili
 -------------------------------------------------------------
 c'è una guida "user friendly" ?
--------------------------------------------------
 farò un video a riguardo 
 -------------------------------------------------
 a cosa serve windows preinstallation environiment?
----------------------------------------------------------------------------------------------------------------------
 (preso dal sito microsoft) 
 Windows PE (WinPE) è un piccolo sistema operativo usato per installare, distribuire e ripristinare Windows desktop edition, Windows Server e altri sistemi operativi Windows desktop. Da Windows PE è possibile:
 
@@ -48,12 +44,10 @@ Aggiungere una shell o un'interfaccia utente grafica personalizzata per automati
 versione completa su ==> https://docs.microsoft.com/it-it/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11
 -----------------------------------------------------------------------------------------------------------------------
 non mi fido dei file inclusi o il mio antivirus li ha contrassegnati come non sicuri
------------------------------------------------------------------------------------------------------------------------
 sto tuttora lavorando per rendere lo script indipendente da GimageX ma non ci sono ancora riuscito.
-il sito ufficial di gimageX è questo:https://www.autoitconsulting.com/site/software/gimagex/
+il sito ufficiale di gimageX è questo:https://www.autoitconsulting.com/site/software/gimagex/
 nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno youtuber a cui piace programmare 
 -----------------------------------------------------------------------------------------------------------------------
 farai un sito per questo ?????
------------------------------------------------------------------------------------------------------------------------
 boh dipende da quanta strada farà il progetto :)
 -----------------------------------------------------------------------------------------------------------------------
