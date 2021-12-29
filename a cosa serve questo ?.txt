@@ -1,1 +1,1 @@
-bake.cmd è il programma principale che creera la ISO
+bake.cmd è il programma principale che configurera l'immagine
