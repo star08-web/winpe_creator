@@ -15,7 +15,7 @@ come lo uso ?
 ---------------------------------------------------------------------------------------------------------------
 ottieni una iso windows 10 da qui ==> https://www.microsoft.com/it-it/software-download/windows10 
 estrai la zipped folder nella radice c:\ e rinomina la cartella in: windows_setup
-estrai la tua iso nella cartella ISO (facoltativo)
+estrai la tua immagine disco nella cartella ISO (facoltativo)
 ottieni il tuo file boot.wim e copialo nella cartella principale. 
 usa gimagex dentro la cartella x64 
 seleziona la scheda change
