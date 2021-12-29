@@ -74,3 +74,16 @@ Avvio da un percorso che contiene caratteri non inglesi.
 Esecuzione di app a 64 bit nella versione a 32 bit di Windows PE.
 Aggiunta di pacchetti di app in bundle tramite Gestione e manutenzione immagini distribuzione (pacchetti con estensione appxbundle).
 -----------------------------------------------------------------------------------------------------------------------
+licenza d'uso. 
+
+questo software è gratuito e open source e seguè i termini della licenza MIT.
+
+alcuni software aggregati ad esempio gimageX sono freeware e non modificabili. 
+per ulteriori informazioni sui software vedere 
+
+GimageX site:https://www.autoitconsulting.com/site/software/gimagex/
+waik docs:https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
+un grande Grazie per usare questo software
+
+
+fatto con ❤️ da star development labs aka. star web
