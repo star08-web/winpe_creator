@@ -51,12 +51,12 @@ nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno you
 farai un sito per questo ?????
 boh dipende da quanta strada farà il progetto :)
 -----------------------------------------------------------------------------------------------------------------------
-Limitazioni di windows preinstallation environiment. (preso da Microsoft)
+nota.
 Windows PE non è un sistema operativo per utilizzo generico. Non può essere usato per scopi diversi dalla distribuzione e dal ripristino. Non deve essere usato come thin client o un sistema operativo incorporato. Esistono altri prodotti Microsoft, ad esempio Windows Embedded CE, che possono essere usati per questi scopi.
 
 Per impedirne l'uso come sistema operativo di produzione, Windows PE arresta automaticamente l'esecuzione della shell e si riavvia dopo 72 ore di utilizzo continuo. Questo periodo non è configurabile.
 
-Quando Windows pe viene riavviato, tutte le modifiche andranno perse, incluse le modifiche ai driver, alle lettere di unità e al registro WINDOWS PE. Per apportare modifiche permanenti, vedere WinPE: Montare e personalizzare.
+Quando Windows pe viene riavviato, tutte le modifiche andranno perse, incluse le modifiche ai driver, alle lettere di unità e al registro WINDOWS PE. Per apportare modifiche permanenti, vedere qui ==> https://docs.microsoft.com/it-it/windows-hardware/manufacture/desktop/winpe-mount-and-customize?view=windows-11
 
 L'Windows pe predefinita usa il formato di file FAT32, che pone le proprie limitazioni, tra cui dimensioni massime di 4 GB di file e dimensioni massime dell'unità di 32 GB. Per altre informazioni, vedere WinPE: Usare una singola chiave USB per WinPE e un file WIM (con estensione wim).
 
