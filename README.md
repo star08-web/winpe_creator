@@ -84,7 +84,7 @@ per ulteriori informazioni sui software vedere
 GimageX site:https://www.autoitconsulting.com/site/software/gimagex/
 
 
-waik docs:https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
+waik docs:https://docs.microsoft.com/it-it/windows-hardware/get-started/adk-install
 un grande Grazie per usare questo software
 
 
