@@ -31,7 +31,7 @@ yep :)
 no. perchè i componenti dism e gimagex non sono disponibili
 -------------------------------------------------------------
 c'è una guida "user friendly" :
-farò un video a riguardo 
+ho fatto un video. lo trovi qui: https://youtu.be/t7lnROpLRCw
 -------------------------------------------------
 a cosa serve windows preinstallation environiment?
 -----------------------------------------------------------------------------------------------------------------------
