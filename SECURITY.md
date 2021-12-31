@@ -8,8 +8,8 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | N\A     | ⛔                 |
-| 1.0.x   | :white_check_mark: |
-| 1.0.x   | :white_check_mark: |
+| 2.0.bt1.private| 💼          |
+| 1.0.x   | :white_check_mark:  |
 | 0.00private_alpha| ❎        |
 
 ## Reporting a Vulnerability
