@@ -54,7 +54,7 @@ nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno you
 farai un sito per questo ?????
 
 
-lo ho gia fatto. lo trovi a questo indirizzo:webstar868.wixsite.com/winpe
+lo ho gia fatto. lo trovi a questo indirizzo: https://webstar868.wixsite.com/winpe
 -----------------------------------------------------------------------------------------------------------------------
 nota.
 Windows PE non è un sistema operativo per utilizzo generico. Non può essere usato per scopi diversi dalla distribuzione e dal ripristino. Non deve essere usato come thin client o un sistema operativo incorporato. Esistono altri prodotti Microsoft, ad esempio Windows Embedded CE, che possono essere usati per questi scopi.
