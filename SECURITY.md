@@ -7,10 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| N\A     | ⛔                 |
 | 1.0.x   | :white_check_mark: |
 | 1.0.x   | :white_check_mark: |
-| 1.0.x   | :white_check_mark: |
-| < 1.0   | ❓                |
+| 0.00private_alpha| ❎        |
 
 ## Reporting a Vulnerability
 
