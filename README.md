@@ -13,6 +13,14 @@ faq
 
 come lo uso ?
 ---------------------------------------------------------------------------------------------------------------
+1. scarica windows 11 da qui ==> https://www.microsoft.com/it-it/software-download/windows11
+2. scarica il programma
+3. installa il programma
+4. estrai la iso usando 7zip dentro la cartella iso nella cartella principale del programma
+5. esegui il file bake.cmd come admin 
+6. divertiti 😺
+---------------------------------------------------------------------------------------------------------------
+## istruzioni legacy (versione 1.00)
 ottieni una iso windows 10 da qui ==> https://www.microsoft.com/it-it/software-download/windows10 
 estrai la zipped folder nella radice c:\ e rinomina la cartella in: windows_setup
 estrai la tua immagine disco nella cartella ISO
@@ -87,7 +95,7 @@ questo software è gratuito e open source e segue i termini della licenza MIT.
 alcuni software usati nel progetto ad esempio gimageX e windows preinstallation environiment stesso sono freeware o commercial e non modificabili. 
 per ulteriori informazioni sui software vedere 
 
-GimageX site:https://www.autoitconsulting.com/site/software/gimagex/
+GimageX site:https://www.autoitconsulting.com/site/software/gimagex/ (solo versione 1.00)
 
 
 waik docs:https://docs.microsoft.com/it-it/windows-hardware/get-started/adk-install
