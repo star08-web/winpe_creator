@@ -50,6 +50,9 @@ non mi fido dei file inclusi o il mio antivirus li ha contrassegnati come non si
 sto tuttora lavorando per rendere lo script indipendente da GimageX ma non ci sono ancora riuscito.
 il sito ufficiale di gimageX è questo:https://www.autoitconsulting.com/site/software/gimagex/
 nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno youtuber a cui piace programmare 
+
+
+
 nota2. è in corso lo sviluppo della versione 2.00 alexandra, che dovrebbe includere la creazione totalmente automatica e altre cose interessanti. quindi se il progetto ti interessa ma non hai capito le istruzioni. aspetta, non te ne pentirai :)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 farai un sito per questo ?????
