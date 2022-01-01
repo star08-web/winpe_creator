@@ -53,7 +53,7 @@ nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno you
 
 
 
-nota2. è in corso lo sviluppo della versione 2.00 alexandra, che dovrebbe includere la creazione totalmente automatica e altre cose interessanti. quindi se il progetto ti interessa ma non hai capito le istruzioni. aspetta, non te ne pentirai :)
+nota2. è uscita la versione 2.00 che è completamente automatica, semplicement esegui il file bake.cmd come amministratore
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 farai un sito per questo ?????
 
