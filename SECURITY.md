@@ -10,7 +10,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | N\A     | ⛔                 |
-| 2.0.bt1.private| 💼 WIP      |
+| 2.0.0   | ✅                 |
 | 1.0.x   | :white_check_mark:  |
 | 0.00private_alpha| ❎        |
 
