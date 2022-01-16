@@ -66,7 +66,7 @@ nota2. è uscita la versione 2.00 che è completamente automatica, semplicement 
 farai un sito per questo ?????
 
 
-lo ho gia fatto. lo trovi a questo indirizzo: https://webstar868.wixsite.com/winpe
+lo ho gia fatto. lo trovi a questo indirizzo: https://star08-web.github.io/osbake/
 -----------------------------------------------------------------------------------------------------------------------
 nota.
 Windows PE non è un sistema operativo per utilizzo generico. Non può essere usato per scopi diversi dalla distribuzione e dal ripristino. Non deve essere usato come thin client o un sistema operativo incorporato. Esistono altri prodotti Microsoft, ad esempio Windows Embedded CE, che possono essere usati per questi scopi.
