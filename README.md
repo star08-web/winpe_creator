@@ -61,7 +61,7 @@ nota. io non sono associato in nessun modo a autoitconsulting. sono solo uno you
 
 
 
-nota2. è uscita la versione 2.00 che è completamente automatica, semplicement esegui il file bake.cmd come amministratore
+nota2. è uscita la versione 2.00 che è indipendente da GimageX
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 farai un sito per questo ?????
 
