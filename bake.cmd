@@ -1,7 +1,7 @@
 echo off
 title baking os image
 color 3
-echo osbake v 3.00
+echo osbake v 3.1
 echo script created by: star
 @setlocal enableextensions
 @cd /d "%~dp0"
@@ -33,7 +33,8 @@ cd..
 cd appcomponent 
 xcopy browser \windows_setup\wim\appfolder\browser /S /q
 xcopy gimagex \windows_setup\wim\appfolder\gimagex /S /q
-xcopy shell \windows_setup\wim\appfolder\shell /S /q
+xcopy explorer++.exe \windows_setup\wim\windows /S /q
+xcopy choice.exe \windows_setup\wim\windows\system32 /S /q
 cd /d "%~dp0"
 cd wim\windows\system32
 takeown /f startnet.cmd && icacls startnet.cmd /grant administrators:F
