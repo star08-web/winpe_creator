@@ -1,1 +1,0 @@
-bake.cmd è il programma principale che configurera l'immagine
